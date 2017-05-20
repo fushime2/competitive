@@ -1,0 +1,7 @@
+*~
+*.exe
+*.txt
+*.swp
+template.*
+*.stackdump
+*.swo
